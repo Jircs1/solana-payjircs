@@ -28,7 +28,7 @@
         "@solana/web3.js": "^1.56.0",
         "bignumber.js": "^9.1.0",
         "bs58": "^4.0.1",
-        "cache-manager": "^4.1.0",
+        "cache-manager": "^5.0.0",
         "clsx": "^1.2.1",
         "color-interpolate": "^1.0.5",
         "cors": "^2.8.5",
